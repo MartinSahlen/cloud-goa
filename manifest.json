@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+        "github.com/MartinSahlen/go-cloud-fn": {
+            "branch": "master"
+        },
+        "github.com/go-kit/kit": {
+            "branch": "master"
+        },
+        "github.com/goadesign/goa": {
+            "branch": "master"
+        },
+        "github.com/spf13/cobra": {
+            "branch": "master"
+        },
+        "golang.org/x/net": {
+            "branch": "master"
+        }
+    }
+}

@@ -3,6 +3,7 @@ package main
 import (
 	"os"
 
+	"github.com/MartinSahlen/cloud-goa/app"
 	"github.com/MartinSahlen/go-cloud-fn/shim"
 	"github.com/go-kit/kit/log"
 	"github.com/goadesign/goa"

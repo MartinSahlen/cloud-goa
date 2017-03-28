@@ -1,0 +1,155 @@
+{
+    "memo": "19eb579f59a41c3a11a4c23bf0e3aac3c4565edea2c4260e436aaa32d23e59a9",
+    "projects": [
+        {
+            "name": "github.com/MartinSahlen/go-cloud-fn",
+            "branch": "master",
+            "revision": "b97c8dac27896146d0883cd2c040effb4e733e96",
+            "packages": [
+                "shim"
+            ]
+        },
+        {
+            "name": "github.com/armon/go-metrics",
+            "branch": "master",
+            "revision": "93f237eba9b0602f3e73710416558854a81d9337",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/dimfeld/httppath",
+            "branch": "master",
+            "revision": "c8e499c3ef3c3e272ed8bdcc1ccf39f73c88debc",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/dimfeld/httptreemux",
+            "branch": "master",
+            "revision": "86f7c217d9043ebc6adfd8e2ed04a0bb1e1db651",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-kit/kit",
+            "branch": "master",
+            "revision": "04dd4f741c6e76cc170a4d7913f4c625952e6f58",
+            "packages": [
+                "log"
+            ]
+        },
+        {
+            "name": "github.com/go-logfmt/logfmt",
+            "branch": "master",
+            "revision": "390ab7935ee28ec6b286364bba9b4dd6410cb3d5",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/go-stack/stack",
+            "branch": "master",
+            "revision": "100eb0c0a9c5b306ca2fb4f165df21d80ada4b82",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/goadesign/goa",
+            "branch": "master",
+            "revision": "f6da11d0f06acc9dee555824e82a90b5eb81427c",
+            "packages": [
+                ".",
+                "client",
+                "design",
+                "design/apidsl",
+                "dslengine",
+                "goatest",
+                "logging/kit",
+                "middleware",
+                "uuid"
+            ]
+        },
+        {
+            "name": "github.com/inconshreveable/mousetrap",
+            "branch": "master",
+            "revision": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/kr/logfmt",
+            "branch": "master",
+            "revision": "b84e30acd515aadc4b783ad4ff83aff3299bdfe0",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/manveru/faker",
+            "branch": "master",
+            "revision": "717f7cf83fb78669bfab612749c2e8ff63d5be11",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/satori/go.uuid",
+            "branch": "master",
+            "revision": "b061729afc07e77a8aa4fad0a2fd840958f1942a",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/spf13/cobra",
+            "branch": "master",
+            "revision": "7be4beda01ec05d0b93d80b3facd2b6f44080d94",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/spf13/pflag",
+            "branch": "master",
+            "revision": "9ff6c6923cfffbcd502984b8e0c80539a94968b7",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/zach-klippenstein/goregen",
+            "branch": "master",
+            "revision": "795b5e3961ea1912fde60af417ad85e86acc0d6a",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "golang.org/x/net",
+            "branch": "master",
+            "revision": "a6577fac2d73be281a500b310739095313165611",
+            "packages": [
+                "context",
+                "context/ctxhttp",
+                "websocket"
+            ]
+        },
+        {
+            "name": "google.golang.org/api",
+            "branch": "master",
+            "revision": "bc20c61134e1d25265dd60049f5735381e79b631",
+            "packages": [
+                "gensupport",
+                "googleapi",
+                "googleapi/internal/uritemplates",
+                "pubsub/v1beta2",
+                "storage/v1beta2"
+            ]
+        }
+    ]
+}

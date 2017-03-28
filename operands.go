@@ -3,7 +3,7 @@ package main
 import (
 	"strconv"
 
-	"github.com/MartinSahlen/cloud-function-goa/app"
+	"github.com/MartinSahlen/cloud-goa/app"
 	"github.com/goadesign/goa"
 )
 
